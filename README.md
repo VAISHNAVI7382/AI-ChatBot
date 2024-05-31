@@ -1,4 +1,4 @@
-Getting Started 
+
 Getting started with Vaishu Bot is kinda piece of cake! Follow these simple steps to begin your journey in learning AI:
 
 Clone the Repository: Clone the Vaishu Bot repository to your local machine using the following command:
