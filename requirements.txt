@@ -1,0 +1,10 @@
+Name: groq
+Version: 0.8.0
+Summary: The official Python library for the groq API
+Home-page: 
+Author: 
+Author-email: Groq <support@groq.com>
+License: 
+Location: /usr/local/lib/python3.10/dist-packages
+Requires: anyio, distro, httpx, pydantic, sniffio, typing-extensions
+Required-by: 
