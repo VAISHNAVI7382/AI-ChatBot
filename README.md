@@ -3,7 +3,7 @@ Getting started with Vaishu Bot is kinda piece of cake! Follow these simple step
 
 Clone the Repository: Clone the Vaishu Bot repository to your local machine using the following command:
 
-git clone https://github.com/VAISHGOPALUNI/AI-ChatBot
+git clone https://github.com/VAISHGOPALUNI/AI-ChatBot.git
 Install Dependencies: Navigate to the project directory and install the required dependencies by running:
 
 pip install -r requirements.txt
